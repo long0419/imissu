@@ -1,0 +1,19 @@
+//
+//  imissu.pch
+//  imissu
+//
+//  Created by long-laptop on 16/3/11.
+//  Copyright © 2016年 long-laptop. All rights reserved.
+//
+
+#ifndef imissu_pch
+#define imissu_pch
+
+#define kScreen_Bounds [UIScreen mainScreen].bounds
+#define kScreen_Height [UIScreen mainScreen].bounds.size.height
+#define kScreen_Width [UIScreen mainScreen].bounds.size.width
+#define JPUSHKEY @"b7dec2438167786f34e07da5"
+
+
+
+#endif

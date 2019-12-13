@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3f2d39e4-9446-43e4-bf8e-2b1b5cc6c3a8" : {
+
+    },
+    "e86f2b66-5409-4324-8303-1d32060e0633++776" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3f2d39e4-9446-43e4-bf8e-2b1b5cc6c3a8" : 9223372036854775807,
+    "e86f2b66-5409-4324-8303-1d32060e0633++776" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C85AE752-7D83-4F57-8018-0819FEBB11A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3f2d39e4-9446-43e4-bf8e-2b1b5cc6c3a8" : "",
+    "e86f2b66-5409-4324-8303-1d32060e0633++776" : "..\/CarManager"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "imissu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "imissu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/car_manager",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3f2d39e4-9446-43e4-bf8e-2b1b5cc6c3a8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/52.74.169.210\/lsios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e86f2b66-5409-4324-8303-1d32060e0633++776"
+    }
+  ]
+}
